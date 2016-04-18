@@ -1,0 +1,474 @@
+{
+  "4568004990-4614335286": {
+    "audienceId": 4568004990,
+    "variationId": 4614335286,
+    "reach": {
+      "totalSessions": 5250917,
+      "campaignSessions": 5250945,
+      "audienceVariationSessions": 280456,
+      "audienceBaselineSessions": 31186,
+      "campaignReach": 1.0,
+      "audienceSessions": 311642,
+      "audienceReach": 0.05934969800673974,
+      "audienceVariationReach": 0.8999300479396231,
+      "audienceBaselineReach": 0.10006995206037697
+    },
+    "metrics": {
+      "revenue": {
+        "results": {
+          "baseline": {
+            "sessions": 31186,
+            "revenue": 3992735.0,
+            "revenuePerSession": 128.02972487654716
+          },
+          "4568004990-4614335286": {
+            "sessions": 280456,
+            "revenue": 39473494.0,
+            "revenuePerSession": 140.74754685226915,
+            "audienceId": 4568004990,
+            "variationId": 4614335286,
+            "revenuePerSessionLift": {
+              "value": 0.09933491607503786,
+              "significance": 0.0,
+              "confidenceInterval": [
+                -0.20234324644897966,
+                0.40160275857262007
+              ],
+              "isSignificant": false
+            }
+          }
+        }
+      },
+      "view_activated|4844720036": {
+        "results": {
+          "baseline": {
+            "sessions": 228,
+            "revenue": 0.0,
+            "revenuePerSession": 0.0,
+            "conversionRate": 0.007310972872442763
+          },
+          "4568004990-4614335286": {
+            "sessions": 1868,
+            "revenue": 0.0,
+            "revenuePerSession": 0.0,
+            "conversionRate": 0.0066605813389622615,
+            "audienceId": 4568004990,
+            "variationId": 4614335286,
+            "revenuePerSessionLift": {
+              "value": 0.0,
+              "significance": 0.0,
+              "confidenceInterval": [
+                "-Infinity",
+                "Infinity"
+              ],
+              "isSignificant": false
+            },
+            "conversionRateLift": {
+              "value": -0.08896101036457416,
+              "significance": 0.5429847243955244,
+              "confidenceInterval": [
+                -0.2836864996124341,
+                0.1057644788832858
+              ],
+              "isSignificant": false
+            }
+          }
+        },
+        "eventType": "view_activated",
+        "eventName": "4844720036"
+      },
+      "other|clicked_through_featured_section": {
+        "results": {
+          "baseline": {
+            "sessions": 1754,
+            "revenue": 0.0,
+            "revenuePerSession": 0.0,
+            "conversionRate": 0.0562431860450202
+          },
+          "4568004990-4614335286": {
+            "sessions": 17858,
+            "revenue": 0.0,
+            "revenuePerSession": 0.0,
+            "conversionRate": 0.06367487235074308,
+            "audienceId": 4568004990,
+            "variationId": 4614335286,
+            "revenuePerSessionLift": {
+              "value": 0.0,
+              "significance": 0.0,
+              "confidenceInterval": [
+                "-Infinity",
+                "Infinity"
+              ],
+              "isSignificant": false
+            },
+            "conversionRateLift": {
+              "value": 0.1321348740765529,
+              "significance": 0.9999220659059164,
+              "confidenceInterval": [
+                0.09341102478270819,
+                0.20884840776148933
+              ],
+              "isSignificant": true
+            }
+          }
+        },
+        "eventType": "other",
+        "eventName": "clicked_through_featured_section"
+      }
+    }
+  },
+  "4576305220-4618677754": {
+    "audienceId": 4576305220,
+    "variationId": 4618677754,
+    "reach": {
+      "totalSessions": 5250917,
+      "campaignSessions": 5250945,
+      "audienceVariationSessions": 560841,
+      "audienceBaselineSessions": 62324,
+      "campaignReach": 1.0,
+      "audienceSessions": 623165,
+      "audienceReach": 0.11867673342607854,
+      "audienceVariationReach": 0.8999879646642542,
+      "audienceBaselineReach": 0.10001203533574575
+    },
+    "metrics": {
+      "revenue": {
+        "results": {
+          "baseline": {
+            "sessions": 62324,
+            "revenue": 7302106.0,
+            "revenuePerSession": 117.16362877864066
+          },
+          "4576305220-4618677754": {
+            "sessions": 560841,
+            "revenue": 67906557.0,
+            "revenuePerSession": 121.07987290515494,
+            "audienceId": 4576305220,
+            "variationId": 4618677754,
+            "revenuePerSessionLift": {
+              "value": 0.03342542534179538,
+              "significance": 0.0,
+              "confidenceInterval": [
+                -0.16561651413836964,
+                0.23401331516081364
+              ],
+              "isSignificant": false
+            }
+          }
+        }
+      },
+      "view_activated|4844720036": {
+        "results": {
+          "baseline": {
+            "sessions": 337,
+            "revenue": 0.0,
+            "revenuePerSession": 0.0,
+            "conversionRate": 0.005407226750529491
+          },
+          "4576305220-4618677754": {
+            "sessions": 3245,
+            "revenue": 0.0,
+            "revenuePerSession": 0.0,
+            "conversionRate": 0.00578595359469083,
+            "audienceId": 4576305220,
+            "variationId": 4618677754,
+            "revenuePerSessionLift": {
+              "value": 0.0,
+              "significance": 0.0,
+              "confidenceInterval": [
+                "-Infinity",
+                "Infinity"
+              ],
+              "isSignificant": false
+            },
+            "conversionRateLift": {
+              "value": 0.07004086598074566,
+              "significance": 0.0,
+              "confidenceInterval": [
+                -0.11390852474298704,
+                0.14879845186366175
+              ],
+              "isSignificant": false
+            }
+          }
+        },
+        "eventType": "view_activated",
+        "eventName": "4844720036"
+      },
+      "other|clicked_through_featured_section": {
+        "results": {
+          "baseline": {
+            "sessions": 4173,
+            "revenue": 0.0,
+            "revenuePerSession": 0.0,
+            "conversionRate": 0.06695654964379694
+          },
+          "4576305220-4618677754": {
+            "sessions": 31905,
+            "revenue": 0.0,
+            "revenuePerSession": 0.0,
+            "conversionRate": 0.05688778102884775,
+            "audienceId": 4576305220,
+            "variationId": 4618677754,
+            "revenuePerSessionLift": {
+              "value": 0.0,
+              "significance": 0.0,
+              "confidenceInterval": [
+                "-Infinity",
+                "Infinity"
+              ],
+              "isSignificant": false
+            },
+            "conversionRateLift": {
+              "value": -0.15037765040932016,
+              "significance": 1.0,
+              "confidenceInterval": [
+                -0.19039677550336037,
+                -0.11035852531527995
+              ],
+              "isSignificant": true
+            }
+          }
+        },
+        "eventType": "other",
+        "eventName": "clicked_through_featured_section"
+      }
+    }
+  },
+  "4559098478-4637992313": {
+    "audienceId": 4559098478,
+    "variationId": 4637992313,
+    "reach": {
+      "totalSessions": 5250917,
+      "campaignSessions": 5250945,
+      "audienceVariationSessions": 82261,
+      "audienceBaselineSessions": 8832,
+      "campaignReach": 1.0,
+      "audienceSessions": 91093,
+      "audienceReach": 0.01734792499254896,
+      "audienceVariationReach": 0.9030441417013382,
+      "audienceBaselineReach": 0.09695585829866181
+    },
+    "metrics": {
+      "revenue": {
+        "results": {
+          "baseline": {
+            "sessions": 8832,
+            "revenue": 1587066.0,
+            "revenuePerSession": 179.69497282608697
+          },
+          "4559098478-4637992313": {
+            "sessions": 82261,
+            "revenue": 13493195.0,
+            "revenuePerSession": 164.0290660215655,
+            "audienceId": 4559098478,
+            "variationId": 4637992313,
+            "revenuePerSessionLift": {
+              "value": -0.08718055134287639,
+              "significance": 0.0,
+              "confidenceInterval": [
+                -0.5310781227687618,
+                0.35671702008300904
+              ],
+              "isSignificant": false
+            }
+          }
+        }
+      },
+      "view_activated|4844720036": {
+        "results": {
+          "baseline": {
+            "sessions": 138,
+            "revenue": 0.0,
+            "revenuePerSession": 0.0,
+            "conversionRate": 0.015625
+          },
+          "4559098478-4637992313": {
+            "sessions": 1431,
+            "revenue": 0.0,
+            "revenuePerSession": 0.0,
+            "conversionRate": 0.017395849795164172,
+            "audienceId": 4559098478,
+            "variationId": 4637992313,
+            "revenuePerSessionLift": {
+              "value": 0.0,
+              "significance": 0.0,
+              "confidenceInterval": [
+                "-Infinity",
+                "Infinity"
+              ],
+              "isSignificant": false
+            },
+            "conversionRateLift": {
+              "value": 0.11333438689050701,
+              "significance": 0.11636671702209833,
+              "confidenceInterval": [
+                -0.22834635303490486,
+                0.1877904495143442
+              ],
+              "isSignificant": false
+            }
+          }
+        },
+        "eventType": "view_activated",
+        "eventName": "4844720036"
+      },
+      "other|clicked_through_featured_section": {
+        "results": {
+          "baseline": {
+            "sessions": 631,
+            "revenue": 0.0,
+            "revenuePerSession": 0.0,
+            "conversionRate": 0.0714447463768116
+          },
+          "4559098478-4637992313": {
+            "sessions": 16080,
+            "revenue": 0.0,
+            "revenuePerSession": 0.0,
+            "conversionRate": 0.19547537715320748,
+            "audienceId": 4559098478,
+            "variationId": 4637992313,
+            "revenuePerSessionLift": {
+              "value": 0.0,
+              "significance": 0.0,
+              "confidenceInterval": [
+                "-Infinity",
+                "Infinity"
+              ],
+              "isSignificant": false
+            },
+            "conversionRateLift": {
+              "value": 1.736035706841725,
+              "significance": 1.0,
+              "confidenceInterval": [
+                1.4243834011829712,
+                1.9321921965408764
+              ],
+              "isSignificant": true
+            }
+          }
+        },
+        "eventType": "other",
+        "eventName": "clicked_through_featured_section"
+      }
+    }
+  },
+  "4572606072-4619617693": {
+    "audienceId": 4572606072,
+    "variationId": 4619617693,
+    "reach": {
+      "totalSessions": 5250917,
+      "campaignSessions": 5250945,
+      "audienceVariationSessions": 114173,
+      "audienceBaselineSessions": 12177,
+      "campaignReach": 1.0,
+      "audienceSessions": 126350,
+      "audienceReach": 0.024062335446286335,
+      "audienceVariationReach": 0.9036248516026909,
+      "audienceBaselineReach": 0.09637514839730907
+    },
+    "metrics": {
+      "revenue": {
+        "results": {
+          "baseline": {
+            "sessions": 12177,
+            "revenue": 1649586.0,
+            "revenuePerSession": 135.46735649174673
+          },
+          "4572606072-4619617693": {
+            "sessions": 114173,
+            "revenue": 16381901.0,
+            "revenuePerSession": 143.48314400077075,
+            "audienceId": 4572606072,
+            "variationId": 4619617693,
+            "revenuePerSessionLift": {
+              "value": 0.05917135844835353,
+              "significance": 0.0,
+              "confidenceInterval": [
+                -0.3531642601658677,
+                0.32057457154440644
+              ],
+              "isSignificant": false
+            }
+          }
+        }
+      },
+      "view_activated|4844720036": {
+        "results": {
+          "baseline": {
+            "sessions": 112,
+            "revenue": 0.0,
+            "revenuePerSession": 0.0,
+            "conversionRate": 0.0091976677342531
+          },
+          "4572606072-4619617693": {
+            "sessions": 956,
+            "revenue": 0.0,
+            "revenuePerSession": 0.0,
+            "conversionRate": 0.008373258125826597,
+            "audienceId": 4572606072,
+            "variationId": 4619617693,
+            "revenuePerSessionLift": {
+              "value": 0.0,
+              "significance": 0.0,
+              "confidenceInterval": [
+                "-Infinity",
+                "Infinity"
+              ],
+              "isSignificant": false
+            },
+            "conversionRateLift": {
+              "value": -0.08963246251615653,
+              "significance": 0.0,
+              "confidenceInterval": [
+                -0.39376734234880684,
+                -0.060336203795228416
+              ],
+              "isSignificant": false
+            }
+          }
+        },
+        "eventType": "view_activated",
+        "eventName": "4844720036"
+      },
+      "other|clicked_through_featured_section": {
+        "results": {
+          "baseline": {
+            "sessions": 1006,
+            "revenue": 0.0,
+            "revenuePerSession": 0.0,
+            "conversionRate": 0.0826147655415948
+          },
+          "4572606072-4619617693": {
+            "sessions": 12673,
+            "revenue": 0.0,
+            "revenuePerSession": 0.0,
+            "conversionRate": 0.11099822199644399,
+            "audienceId": 4572606072,
+            "variationId": 4619617693,
+            "revenuePerSessionLift": {
+              "value": 0.0,
+              "significance": 0.0,
+              "confidenceInterval": [
+                "-Infinity",
+                "Infinity"
+              ],
+              "isSignificant": false
+            },
+            "conversionRateLift": {
+              "value": 0.343563965457951,
+              "significance": 0.9999999999989382,
+              "confidenceInterval": [
+                0.22754572511755575,
+                0.45005762557813944
+              ],
+              "isSignificant": true
+            }
+          }
+        },
+        "eventType": "other",
+        "eventName": "clicked_through_featured_section"
+      }
+    }
+  }
+}

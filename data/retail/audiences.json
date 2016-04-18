@@ -1,0 +1,54 @@
+[
+  {
+    "archived": false, 
+    "name": "Collectibles Shoppers", 
+    "created": "2016-01-14T19:21:44.097230Z", 
+    "segment_id": null, 
+    "segmentation": false, 
+    "user_touched": true, 
+    "last_modified": "2016-02-11T01:23:29.542470Z", 
+    "project_id": 279547401, 
+    "conditions": "[\"or\", [\"and\", {\"name\": \"event\", \"type\": \"behavior\", \"value\": \"{\\\"version\\\":\\\"0.1\\\",\\\"source\\\":\\\"events\\\",\\\"action\\\":{\\\"type\\\":\\\"pageview\\\",\\\"value\\\":\\\"collectibles_storefront\\\"},\\\"time\\\":{\\\"type\\\":\\\"last_days\\\",\\\"days\\\":30},\\\"count\\\":{\\\"comparator\\\":\\\"gte\\\",\\\"value\\\":1}}\"}, {\"type\": \"code\", \"value\": \"getMostFrequentName(2) === \\\"collectibles\\\";\"}], {\"type\": \"code\", \"value\": \"getMostFrequentName(4) === \\\"collectibles\\\";\"}]", 
+    "id": 4559098478, 
+    "description": "Visitors who view the Collectibles storefront AND Collectibles Search Results page OR PDPs for Collectibles products a total of at least 5 times in the last 30 days."
+  }, 
+  {
+    "archived": false, 
+    "name": "Xbox One Shoppers", 
+    "created": "2016-01-14T19:16:08.564470Z", 
+    "segment_id": null, 
+    "segmentation": false, 
+    "user_touched": true, 
+    "last_modified": "2016-02-11T01:25:50.908330Z", 
+    "project_id": 279547401, 
+    "conditions": "[\"or\", [\"and\", {\"name\": \"event\", \"type\": \"behavior\", \"value\": \"{\\\"version\\\":\\\"0.1\\\",\\\"source\\\":\\\"events\\\",\\\"action\\\":{\\\"type\\\":\\\"pageview\\\",\\\"value\\\":\\\"xbox_one_storefront\\\"},\\\"time\\\":{\\\"type\\\":\\\"last_days\\\",\\\"days\\\":30},\\\"count\\\":{\\\"comparator\\\":\\\"gte\\\",\\\"value\\\":1}}\"}, {\"type\": \"code\", \"value\": \"getMostFrequentName(2) === \\\"xboxone\\\";\"}], {\"type\": \"code\", \"value\": \"getMostFrequentName(4) === \\\"xboxone\\\";\"}]", 
+    "id": 4568004990, 
+    "description": "Visitors who view the Xbox One Storefront, Xbox One Search Results page or PDPs for Xbox One Games and Accessories"
+  }
+  {
+    "archived": false, 
+    "name": "Wii U Shoppers", 
+    "created": "2016-01-14T19:20:29.353580Z", 
+    "segment_id": null, 
+    "segmentation": false, 
+    "user_touched": true, 
+    "last_modified": "2016-02-11T01:24:25.411610Z", 
+    "project_id": 279547401, 
+    "conditions": "[\"or\", [\"and\", {\"name\": \"event\", \"type\": \"behavior\", \"value\": \"{\\\"version\\\":\\\"0.1\\\",\\\"source\\\":\\\"events\\\",\\\"action\\\":{\\\"type\\\":\\\"pageview\\\",\\\"value\\\":\\\"wii_u_storefront\\\"},\\\"time\\\":{\\\"type\\\":\\\"last_days\\\",\\\"days\\\":30},\\\"count\\\":{\\\"comparator\\\":\\\"gte\\\",\\\"value\\\":1}}\"}, {\"type\": \"code\", \"value\": \"getMostFrequentName(2) === \\\"wii\\\";\"}], {\"type\": \"code\", \"value\": \"getMostFrequentName(4) === \\\"wii\\\";\"}]", 
+    "id": 4572606072, 
+    "description": "Visitors who view the Wii U Storefront, Wii U Search Results page or PDPs for Wii U Games and Accessories"
+  }, 
+  {
+    "archived": false, 
+    "name": "PS4 Shoppers", 
+    "created": "2016-01-14T19:17:09.117000Z", 
+    "segment_id": null, 
+    "segmentation": false, 
+    "user_touched": true, 
+    "last_modified": "2016-02-11T01:22:03.931140Z", 
+    "project_id": 279547401, 
+    "conditions": "[\"or\", [\"and\", {\"name\": \"event\", \"type\": \"behavior\", \"value\": \"{\\\"version\\\":\\\"0.1\\\",\\\"source\\\":\\\"events\\\",\\\"action\\\":{\\\"type\\\":\\\"pageview\\\",\\\"value\\\":\\\"ps4_storefront\\\"},\\\"time\\\":{\\\"type\\\":\\\"last_days\\\",\\\"days\\\":30},\\\"count\\\":{\\\"comparator\\\":\\\"gte\\\",\\\"value\\\":1}}\"}, {\"type\": \"code\", \"value\": \"getMostFrequentName(2) === \\\"ps4\\\";\"}], {\"type\": \"code\", \"value\": \"getMostFrequentName(4) === \\\"ps4\\\";\"}]", 
+    "id": 4576305220, 
+    "description": "Visitors who view the PS4 Storefront, PS4 Search Results page or PDPs for PS4 Games and Accessories"
+  }
+]

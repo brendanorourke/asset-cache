@@ -1,0 +1,28 @@
+[
+  {
+    "category": "other", 
+    "event_filter": {
+      "filter_type": "target_selector", 
+      "selector": ".pod:nth-child(1), .pod:nth-child(2), .pod:nth-child(3), .pod:nth-child(4), .pod:nth-child(5), .pod:nth-child(6)"
+    }, 
+    "archived": false, 
+    "description": null, 
+    "created": "2016-01-22T23:39:02.591210Z", 
+    "view_id": 4565931506,
+    "name": "Clicked Featured Section", 
+    "api_name": "clicked_through_featured_section",
+    "id": 4686131140, 
+    "event_type": "click"
+  }, 
+  {
+    "category": "other", 
+    "event_filter": null, 
+    "archived": false, 
+    "description": null,
+    "view_id": null, 
+    "name": "Clicked Non-Featured Section", 
+    "api_name": "row_3_clicks_not_think_geek",
+    "id": 4871740594,
+    "event_type": "custom"
+  }
+]
