@@ -64,9 +64,9 @@
         "queryKey": {
           "begin": "2015-12-16T00:00:00Z",
           "end": "2016-04-05T00:00:00Z",
-          "primaryMetric": "revenue",
+          "primaryMetric": "convert|test_it_out_button_optimizely_landing_page_",
           "secondaryMetrics": {
-            "convert|test_it_out_button_optimizely_landing_page_": "convert|test_it_out_button_optimizely_landing_page_",
+            "revenue": "revenue",
             "view_activated|4135394367": "view_activated|4135394367"
           },
           "tertiaryMetrics": {
@@ -174,9 +174,9 @@
         "queryKey": {
           "begin": "2015-12-16T00:00:00Z",
           "end": "2016-04-05T00:00:00Z",
-          "primaryMetric": "revenue",
+          "primaryMetric": "convert|test_it_out_button_optimizely_landing_page_",
           "secondaryMetrics": {
-            "convert|test_it_out_button_optimizely_landing_page_": "convert|test_it_out_button_optimizely_landing_page_",
+            "revenue": "revenue",
             "view_activated|4135394367": "view_activated|4135394367"
           },
           "tertiaryMetrics": {
@@ -295,7 +295,7 @@
           "end": "2016-04-05T00:00:00Z"
         },
         "results": {
-          "totalSessions": 892851,
+          "totalSessions": 891851,
           "campaignSessions": 732138,
           "audienceVariationSessions": 389497,
           "audienceBaselineSessions": 20499,
