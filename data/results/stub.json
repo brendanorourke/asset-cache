@@ -56159,7 +56159,7 @@
               "audienceVariationSessions": 2733,
               "audienceBaselineSessions": 155,
               "campaignReach": 0.32563049352195345,
-              "audienceReach": 0.013066513439777761,
+              "audienceReach": 0.13066513439777761,
               "audienceSessions": 2888,
               "audienceVariationReach": 0.9463296398891967,
               "audienceBaselineReach": 0.053670360110803325
@@ -56180,12 +56180,9 @@
                     "variationId": 4142230430,
                     "revenueRateLift": {
                       "value": -0.4853910420595382,
-                      "significance": 0.1391891612874463,
-                      "confidenceInterval": [
-                        -1.3870645597799234,
-                        0.31658349067474845
-                      ],
-                      "isSignificant": false
+                      "significance": 0.999992,
+                      "confidenceInterval": [0.1576414152761, 0.490766782775911],
+                      "isSignificant": true
                     }
                   }
                 }
@@ -56277,7 +56274,7 @@
               "audienceVariationSessions": 4026,
               "audienceBaselineSessions": 241,
               "campaignReach": 0.32563049352195345,
-              "audienceReach": 0.019305683118951422,
+              "audienceReach": 0.19305683118951422,
               "audienceSessions": 4267,
               "audienceVariationReach": 0.9435200374970706,
               "audienceBaselineReach": 0.05647996250292946
@@ -56287,8 +56284,8 @@
                 "results": {
                   "baseline": {
                     "sessions": 241,
-                    "revenue": 7800,
-                    "revenueRate": 32.365145228215766
+                    "revenue": 31900,
+                    "revenueRate": 132.365145228215766
                   },
                   "4124786017-4134591994": {
                     "sessions": 4026,
@@ -56297,13 +56294,10 @@
                     "audienceId": 4124786017,
                     "variationId": 4134591994,
                     "revenueRateLift": {
-                      "value": 5.474187015170622,
-                      "significance": 0,
-                      "confidenceInterval": [
-                        -202.49262762218441,
-                        209.09491532894972
-                      ],
-                      "isSignificant": false
+                      "value": 0.58333333333333,
+                      "significance": 0.99992,
+                      "confidenceInterval": [0.1576414152761, 0.490766782775911],
+                      "isSignificant": true
                     }
                   }
                 }
@@ -56416,12 +56410,9 @@
                     "variationId": 4126972451,
                     "revenueRateLift": {
                       "value": 0.7036812174933722,
-                      "significance": 0,
-                      "confidenceInterval": [
-                        -7.334807509784023,
-                        7.818398572243495
-                      ],
-                      "isSignificant": false
+                      "significance": 0.999992,
+                      "confidenceInterval": [0.1576414152761, 0.490766782775911],
+                      "isSignificant": true
                     }
                   }
                 }
