@@ -64,9 +64,9 @@
         "queryKey": {
           "begin": "2015-12-16T00:00:00Z",
           "end": "2016-04-05T00:00:00Z",
-          "primaryMetric": "convert|test_it_out_button_optimizely_landing_page_",
+          "primaryMetric": "revenue",
           "secondaryMetrics": {
-            "revenue": "revenue",
+            "convert|test_it_out_button_optimizely_landing_page_": "convert|test_it_out_button_optimizely_landing_page_",
             "view_activated|4135394367": "view_activated|4135394367"
           },
           "tertiaryMetrics": {
@@ -174,9 +174,9 @@
         "queryKey": {
           "begin": "2015-12-16T00:00:00Z",
           "end": "2016-04-05T00:00:00Z",
-          "primaryMetric": "convert|test_it_out_button_optimizely_landing_page_",
+          "primaryMetric": "revenue",
           "secondaryMetrics": {
-            "revenue": "revenue",
+            "convert|test_it_out_button_optimizely_landing_page_": "convert|test_it_out_button_optimizely_landing_page_",
             "view_activated|4135394367": "view_activated|4135394367"
           },
           "tertiaryMetrics": {
