@@ -56571,7 +56571,7 @@
                     "sessions": 2321,
                     "revenue": 0,
                     "revenueRate": 0,
-                    "conversionRate": 0.4074200084068937,
+                    "conversionRate": 0.3074200084068937,
                     "audienceId": 4133294308,
                     "variationId": 4142230430,
                     "revenueRateLift": {
@@ -56584,7 +56584,7 @@
                       "isSignificant": false
                     },
                     "conversionRateLift": {
-                      "value": -0.052131636313870384,
+                      "value": -0.323531636313870384,
                       "significance": 0.99992,
                       "confidenceInterval": [
                         -0.042931558597165215,
@@ -56640,7 +56640,7 @@
                       "isSignificant": false
                     },
                     "conversionRateLift": {
-                      "value": -0.154380470590535402,
+                      "value": -0.365380470590535402,
                       "significance": 0.999992,
                       "confidenceInterval": [
                         -0.015391983698443475,
