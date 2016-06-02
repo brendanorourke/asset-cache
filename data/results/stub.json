@@ -56193,7 +56193,7 @@
                     "sessions": 2671,
                     "revenue": 0,
                     "revenueRate": 0,
-                    "conversionRate": 0.4073143066227589,
+                    "conversionRate": 0.3073143066227589,
                     "audienceId": 4133294308,
                     "variationId": 4142230430,
                     "revenueRateLift": {
@@ -56206,7 +56206,7 @@
                       "isSignificant": false
                     },
                     "conversionRateLift": {
-                      "value": -0.123538631935997367,
+                      "value": -0.323538631935997367,
                       "significance": 0.999992,
                       "confidenceInterval": [
                         -0.03501378201408368,
@@ -56231,7 +56231,7 @@
                     "sessions": 38,
                     "revenue": 0,
                     "revenueRate": 0,
-                    "conversionRate": 0.02904134650567142,
+                    "conversionRate": 0.021204134650567142,
                     "audienceId": 4133294308,
                     "variationId": 4142230430,
                     "revenueRateLift": {
@@ -56244,7 +56244,7 @@
                       "isSignificant": false
                     },
                     "conversionRateLift": {
-                      "value": -0.155140870837907,
+                      "value": -0.365140870837907,
                       "significance": 0.999992,
                       "confidenceInterval": [
                         -28.622618217854853,
@@ -56539,7 +56539,7 @@
                     "audienceId": 4133294308,
                     "variationId": 4142230430,
                     "revenueRateLift": {
-                      "value": -48.86233222870661,
+                      "value": -148.86233222870661,
                       "significance": 0.999992,
                       "confidenceInterval": [
                         -106.97681903303896,
