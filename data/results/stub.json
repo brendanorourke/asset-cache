@@ -81,9 +81,11 @@
                   "sessions": 380,
                   "revenue": 0,
                   "revenueRate": 0,
-                  "conversionRate": 0.03441093905641583
+                  "conversionRate": 0.03441093905641583,
+                  "isBaseline": true
                 },
                 "variation": {
+                  "isBaseline": false,
                   "sessions": 6957,
                   "revenue": 0,
                   "revenueRate": 0,
@@ -114,9 +116,11 @@
                   "sessions": 10215,
                   "revenue": 0,
                   "revenueRate": 0,
-                  "conversionRate": 0.4250203748981255
+                  "conversionRate": 0.4250203748981255,
+                  "isBaseline": true
                 },
                 "variation": {
+                  "isBaseline": false,
                   "sessions": 194445,
                   "revenue": 0,
                   "revenueRate": 0,
@@ -146,9 +150,11 @@
                 "baseline": {
                   "sessions": 11043,
                   "revenue": 2510600,
-                  "revenueRate": 224.73664158491286
+                  "revenueRate": 224.73664158491286,
+                  "isBaseline": true
                 },
                 "variation": {
+                  "isBaseline": false,
                   "sessions": 209980,
                   "revenue": "4.71902E7",
                   "revenueRate": 296.34764103957258,
@@ -185,9 +191,11 @@
                 "baseline": {
                   "sessions": 272,
                   "revenue": 39000,
-                  "revenueRate": 143.38235294117646
+                  "revenueRate": 143.38235294117646,
+                  "isBaseline": true
                 },
                 "4135810959-4126972451": {
+                  "isBaseline": false,
                   "sessions": 5068,
                   "revenue": 1238000,
                   "revenueRate": 244.27782162588792,
@@ -208,9 +216,11 @@
                   "sessions": 263,
                   "revenue": 0,
                   "revenueRate": 0,
-                  "conversionRate": 0.4269117647058824
+                  "conversionRate": 0.4269117647058824,
+                  "isBaseline": true
                 },
                 "4135810959-4126972451": {
+                  "isBaseline": false,
                   "sessions": 4947,
                   "revenue": 0,
                   "revenueRate": 0,
@@ -246,9 +256,11 @@
                   "sessions": 6,
                   "revenue": 0,
                   "revenueRate": 0,
-                  "conversionRate": 0.03441093905641583
+                  "conversionRate": 0.03441093905641583,
+                  "isBaseline": true
                 },
                 "4135810959-4126972451": {
+                  "isBaseline": false,
                   "sessions": 89,
                   "revenue": 0,
                   "revenueRate": 0,
@@ -343,6 +355,7 @@
             "view_activated|4135394367": {
               "results": {
                 "4133294308-4142230430": {
+                  "isBaseline": false,
                   "audienceId": 4133294308,
                   "variationId": 4142230430,
                   "timeseries": [
@@ -3099,6 +3112,7 @@
                   ]
                 },
                 "baseline": {
+                  "isBaseline": true,
                   "timeseries": [
                     {
                       "timestamp": 1450224000000,
@@ -3873,6 +3887,7 @@
                   ]
                 },
                 "4135810959-4126972451": {
+                  "isBaseline": false,
                   "audienceId": 4135810959,
                   "variationId": 4126972451,
                   "timeseries": [
@@ -6629,6 +6644,7 @@
                   ]
                 },
                 "variation": {
+                  "isBaseline": false,
                   "timeseries": [
                     {
                       "timestamp": 1450224000000,
@@ -9383,6 +9399,7 @@
                   ]
                 },
                 "4124786017-4134591994": {
+                  "isBaseline": false,
                   "audienceId": 4124786017,
                   "variationId": 4134591994,
                   "timeseries": [
@@ -12145,6 +12162,7 @@
             "revenue": {
               "results": {
                 "4133294308-4142230430": {
+                  "isBaseline": false,
                   "audienceId": 4133294308,
                   "variationId": 4142230430,
                   "timeseries": [
@@ -13691,6 +13709,7 @@
                   ]
                 },
                 "baseline": {
+                  "isBaseline": true,
                   "timeseries": [
                     {
                       "timestamp": 1450224000000,
@@ -14245,6 +14264,7 @@
                   ]
                 },
                 "4135810959-4126972451": {
+                  "isBaseline": false,
                   "audienceId": 4135810959,
                   "variationId": 4126972451,
                   "timeseries": [
@@ -15791,6 +15811,7 @@
                   ]
                 },
                 "variation": {
+                  "isBaseline": false,
                   "timeseries": [
                     {
                       "timestamp": 1450224000000,
@@ -17335,6 +17356,7 @@
                   ]
                 },
                 "4124786017-4134591994": {
+                  "isBaseline": false,
                   "audienceId": 4124786017,
                   "variationId": 4134591994,
                   "timeseries": [
@@ -18885,6 +18907,7 @@
             "convert|goalPrimary": {
               "results": {
                 "4133294308-4142230430": {
+                  "isBaseline": false,
                   "audienceId": 4133294308,
                   "variationId": 4142230430,
                   "timeseries": [
@@ -21641,6 +21664,7 @@
                   ]
                 },
                 "baseline": {
+                  "isBaseline": true,
                   "timeseries": [
                     {
                       "timestamp": 1450224000000,
@@ -22415,6 +22439,7 @@
                   ]
                 },
                 "4135810959-4126972451": {
+                  "isBaseline": false,
                   "audienceId": 4135810959,
                   "variationId": 4126972451,
                   "timeseries": [
@@ -25171,6 +25196,7 @@
                   ]
                 },
                 "variation": {
+                  "isBaseline": false,
                   "timeseries": [
                     {
                       "timestamp": 1450224000000,
@@ -27925,6 +27951,7 @@
                   ]
                 },
                 "4124786017-4134591994": {
+                  "isBaseline": false,
                   "audienceId": 4124786017,
                   "variationId": 4134591994,
                   "timeseries": [
@@ -30705,6 +30732,7 @@
             "convert|goalPrimary": {
               "results": {
                 "baseline": {
+                  "isBaseline": true,
                   "timeseries": [
                     {
                       "timestamp": 1450224000000,
@@ -31479,6 +31507,7 @@
                   ]
                 },
                 "variation": {
+                  "isBaseline": false,
                   "timeseries": [
                     {
                       "timestamp": 1450224000000,
@@ -34237,6 +34266,7 @@
               "eventName": "goalPrimary"
             },
             "view_activated|4135394367": {
+              "isBaseline": false,
               "results": {
                 "baseline": {
                   "timeseries": [
@@ -37773,6 +37803,7 @@
             "revenue": {
               "results": {
                 "baseline": {
+                  "isBaseline": true,
                   "timeseries": [
                     {
                       "timestamp": 1450224000000,
@@ -38327,6 +38358,7 @@
                   ]
                 },
                 "variation": {
+                  "isBaseline": false,
                   "timeseries": [
                     {
                       "timestamp": 1450224000000,
@@ -39896,6 +39928,7 @@
             "convert|goalPrimary": {
               "results": {
                 "baseline": {
+                  "isBaseline": true,
                   "timeseries": [
                     {
                       "timestamp": 1450224000000,
@@ -40670,6 +40703,7 @@
                   ]
                 },
                 "4135810959-4126972451": {
+                  "isBaseline": false,
                   "audienceId": 4135810959,
                   "variationId": 4126972451,
                   "timeseries": [
@@ -43426,6 +43460,7 @@
                   ]
                 },
                 "variation": {
+                  "isBaseline": false,
                   "timeseries": [
                     {
                       "timestamp": 1450224000000,
@@ -46186,6 +46221,7 @@
             "view_activated|4135394367": {
               "results": {
                 "baseline": {
+                  "isBaseline": true,
                   "timeseries": [
                     {
                       "timestamp": 1450224000000,
@@ -46960,6 +46996,7 @@
                   ]
                 },
                 "4135810959-4126972451": {
+                  "isBaseline": false,
                   "audienceId": 4135810959,
                   "variationId": 4126972451,
                   "timeseries": [
@@ -49716,6 +49753,7 @@
                   ]
                 },
                 "variation": {
+                  "isBaseline": false,
                   "timeseries": [
                     {
                       "timestamp": 1450224000000,
@@ -52476,6 +52514,7 @@
             "revenue": {
               "results": {
                 "baseline": {
+                  "isBaseline": true,
                   "timeseries": [
                     {
                       "timestamp": 1450224000000,
@@ -53030,6 +53069,7 @@
                   ]
                 },
                 "4135810959-4126972451": {
+                  "isBaseline": false,
                   "audienceId": 4135810959,
                   "variationId": 4126972451,
                   "timeseries": [
@@ -54576,6 +54616,7 @@
                   ]
                 },
                 "variation": {
+                  "isBaseline": false,
                   "timeseries": [
                     {
                       "timestamp": 1450224000000,
@@ -56164,9 +56205,11 @@
                   "baseline": {
                     "sessions": 155,
                     "revenue": 31200,
-                    "revenueRate": 201.29032258064515
+                    "revenueRate": 201.29032258064515,
+                    "isBaseline": true
                   },
                   "4133294308-4142230430": {
+                    "isBaseline": false,
                     "sessions": 2733,
                     "revenue": 283100,
                     "revenueRate": 103.58580314672521,
@@ -56187,9 +56230,11 @@
                     "sessions": 148,
                     "revenue": 0,
                     "revenueRate": 0,
-                    "conversionRate": 0.4548387096774194
+                    "conversionRate": 0.4548387096774194,
+                    "isBaseline": true
                   },
                   "4133294308-4142230430": {
+                    "isBaseline": false,
                     "sessions": 2671,
                     "revenue": 0,
                     "revenueRate": 0,
@@ -56225,9 +56270,11 @@
                     "sessions": 1,
                     "revenue": 0,
                     "revenueRate": 0,
-                    "conversionRate": 0.0344516129032258064
+                    "conversionRate": 0.0344516129032258064,
+                    "isBaseline": true
                   },
                   "4133294308-4142230430": {
+                    "isBaseline": false,
                     "sessions": 38,
                     "revenue": 0,
                     "revenueRate": 0,
@@ -56279,9 +56326,11 @@
                   "baseline": {
                     "sessions": 241,
                     "revenue": 31900,
-                    "revenueRate": 132.365145228215766
+                    "revenueRate": 132.365145228215766,
+                    "isBaseline": true
                   },
                   "4124786017-4134591994": {
+                    "isBaseline": false,
                     "sessions": 4026,
                     "revenue": 843600,
                     "revenueRate": 209.53800298062592,
@@ -56302,9 +56351,11 @@
                     "sessions": 232,
                     "revenue": 0,
                     "revenueRate": 0,
-                    "conversionRate": 0.42626556016597511
+                    "conversionRate": 0.42626556016597511,
+                    "isBaseline": true
                   },
                   "4124786017-4134591994": {
+                    "isBaseline": false,
                     "sessions": 3909,
                     "revenue": 0,
                     "revenueRate": 0,
@@ -56340,9 +56391,11 @@
                     "sessions": 4,
                     "revenue": 0,
                     "revenueRate": 0,
-                    "conversionRate": 0.0340597510373443983
+                    "conversionRate": 0.0340597510373443983,
+                    "isBaseline": true
                   },
                   "4124786017-4134591994": {
+                    "isBaseline": false,
                     "sessions": 38,
                     "revenue": 0,
                     "revenueRate": 0,
@@ -56394,9 +56447,11 @@
                   "baseline": {
                     "sessions": 272,
                     "revenue": 39000,
-                    "revenueRate": 143.38235294117646
+                    "revenueRate": 143.38235294117646,
+                    "isBaseline": true
                   },
                   "4135810959-4126972451": {
+                    "isBaseline": false,
                     "sessions": 5068,
                     "revenue": 1238000,
                     "revenueRate": 244.27782162588792,
@@ -56417,9 +56472,11 @@
                     "sessions": 263,
                     "revenue": 0,
                     "revenueRate": 0,
-                    "conversionRate": 0.42539117647058824
+                    "conversionRate": 0.42539117647058824,
+                    "isBaseline": true
                   },
                   "4135810959-4126972451": {
+                    "isBaseline": false,
                     "sessions": 4947,
                     "revenue": 0,
                     "revenueRate": 0,
@@ -56455,9 +56512,11 @@
                     "sessions": 6,
                     "revenue": 0,
                     "revenueRate": 0,
-                    "conversionRate": 0.034058823529411766
+                    "conversionRate": 0.034058823529411766,
+                    "isBaseline": true
                   },
                   "4135810959-4126972451": {
+                    "isBaseline": false,
                     "sessions": 89,
                     "revenue": 0,
                     "revenueRate": 0,
@@ -56530,9 +56589,11 @@
                   "baseline": {
                     "sessions": 129,
                     "revenue": 7800,
-                    "revenueRate": 60.46511627906977
+                    "revenueRate": 60.46511627906977,
+                    "isBaseline": true
                   },
                   "4133294308-4142230430": {
+                    "isBaseline": false,
                     "sessions": 2379,
                     "revenue": 236300,
                     "revenueRate": 103.5844850777638,
@@ -56565,9 +56626,11 @@
                     "sessions": 123,
                     "revenue": 0,
                     "revenueRate": 0,
-                    "conversionRate": 0.42534883720930233
+                    "conversionRate": 0.42534883720930233,
+                    "isBaseline": true
                   },
                   "4133294308-4142230430": {
+                    "isBaseline": false,
                     "sessions": 2321,
                     "revenue": 0,
                     "revenueRate": 0,
@@ -56621,9 +56684,11 @@
                     "sessions": 1,
                     "revenue": 0,
                     "revenueRate": 0,
-                    "conversionRate": 0.03441937984496124
+                    "conversionRate": 0.03441937984496124,
+                    "isBaseline": true
                   },
                   "4133294308-4142230430": {
+                    "isBaseline": false,
                     "sessions": 36,
                     "revenue": 0,
                     "revenueRate": 0,
@@ -56693,9 +56758,11 @@
                   "baseline": {
                     "sessions": 216,
                     "revenue": 3900,
-                    "revenueRate": 18.055555555555557
+                    "revenueRate": 18.055555555555557,
+                    "isBaseline": true
                   },
                   "4124786017-4134591994": {
+                    "isBaseline": false,
                     "sessions": 3560,
                     "revenue": 746100,
                     "revenueRate": 209.57865168539325,
@@ -56728,9 +56795,11 @@
                     "sessions": 207,
                     "revenue": 0,
                     "revenueRate": 0,
-                    "conversionRate": 0.42555555
+                    "conversionRate": 0.42555555,
+                    "isBaseline": true
                   },
                   "4124786017-4134591994": {
+                    "isBaseline": false,
                     "sessions": 3454,
                     "revenue": 0,
                     "revenueRate": 0,
@@ -56784,9 +56853,11 @@
                     "sessions": 4,
                     "revenue": 0,
                     "revenueRate": 0,
-                    "conversionRate": 0.034518518518518517
+                    "conversionRate": 0.034518518518518517,
+                    "isBaseline": true
                   },
                   "4124786017-4134591994": {
+                    "isBaseline": false,
                     "sessions": 36,
                     "revenue": 0,
                     "revenueRate": 0,
@@ -56856,9 +56927,11 @@
                   "baseline": {
                     "sessions": 239,
                     "revenue": 39000,
-                    "revenueRate": 224.17991631799163
+                    "revenueRate": 224.17991631799163,
+                    "isBaseline": true
                   },
                   "4135810959-4126972451": {
+                    "isBaseline": false,
                     "sessions": 4526,
                     "revenue": 1105400,
                     "revenueRate": 244.2333186036235,
@@ -56891,9 +56964,11 @@
                     "sessions": 230,
                     "revenue": 0,
                     "revenueRate": 0,
-                    "conversionRate": 0.4253430962343096
+                    "conversionRate": 0.4253430962343096,
+                    "isBaseline": true
                   },
                   "4135810959-4126972451": {
+                    "isBaseline": false,
                     "sessions": 4417,
                     "revenue": 0,
                     "revenueRate": 0,
@@ -56947,9 +57022,11 @@
                     "sessions": 6,
                     "revenue": 0,
                     "revenueRate": 0,
-                    "conversionRate": 0.03410460251046025
+                    "conversionRate": 0.03410460251046025,
+                    "isBaseline": true
                   },
                   "4135810959-4126972451": {
+                    "isBaseline": false,
                     "sessions": 85,
                     "revenue": 0,
                     "revenueRate": 0,
