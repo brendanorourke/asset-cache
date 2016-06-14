@@ -9,7 +9,7 @@
   },
   "audiences": [
     {
-      "name": "Previous Purchaser: Three+",
+      "name": "New Visitors",
       "id": 4133294308,
       "variation_id": 4142230430
     },
@@ -56194,12 +56194,12 @@
                   "4133294308-4142230430": {
                     "isBaseline": false,
                     "sessions": 2733,
-                    "revenue": 283100,
-                    "revenueRate": 103.58580314672521,
+                    "revenue": 811701,
+                    "revenueRate": 297.58580314672521,
                     "audienceId": 4133294308,
                     "variationId": 4142230430,
                     "revenueRateLift": {
-                      "value": -0.4853910420595382,
+                      "value": 0.4853910420595382,
                       "significance": 0.999992,
                       "confidenceInterval": [0.1576414152761, 0.490766782775911],
                       "isSignificant": true
@@ -56221,7 +56221,7 @@
                     "sessions": 2671,
                     "revenue": 0,
                     "revenueRate": 0,
-                    "conversionRate": 0.3073143066227589,
+                    "conversionRate": 0.5943143066227589,
                     "audienceId": 4133294308,
                     "variationId": 4142230430,
                     "revenueRateLift": {
@@ -56234,10 +56234,10 @@
                       "isSignificant": false
                     },
                     "conversionRateLift": {
-                      "value": -0.323538631935997367,
+                      "value": 0.323538631935997367,
                       "significance": 0.999992,
                       "confidenceInterval": [
-                        -0.03501378201408368,
+                        0.03501378201408368,
                         0.06330722737617103
                       ],
                       "isSignificant": true
@@ -56315,12 +56315,12 @@
                   "4124786017-4134591994": {
                     "isBaseline": false,
                     "sessions": 4026,
-                    "revenue": 843600,
-                    "revenueRate": 209.53800298062592,
+                    "revenue": 308230,
+                    "revenueRate": 76.55800298062592,
                     "audienceId": 4124786017,
                     "variationId": 4134591994,
                     "revenueRateLift": {
-                      "value": 0.58333333333333,
+                      "value": -0.58333333333333,
                       "significance": 0.99992,
                       "confidenceInterval": [0.1576414152761, 0.490766782775911],
                       "isSignificant": true
@@ -56355,11 +56355,11 @@
                       "isSignificant": false
                     },
                     "conversionRateLift": {
-                      "value": 0.11604630248214118,
+                      "value": -0.11604630248214118,
                       "significance": 0.99992,
                       "confidenceInterval": [
-                        -0.03192381490322017,
-                        0.03794377349246215
+                        -0.13192381490322017,
+                        -0.12794377349246215
                       ],
                       "isSignificant": true
                     }
@@ -56575,25 +56575,25 @@
                   },
                   "4133294308-4142230430": {
                     "isBaseline": false,
-                    "sessions": 2379,
-                    "revenue": 236300,
-                    "revenueRate": 103.5844850777638,
+                    "sessions": 2733,
+                    "revenue": 811701,
+                    "revenueRate": 297.5844850777638,
                     "audienceId": 4133294308,
                     "variationId": 4142230430,
                     "revenueRateLift": {
-                      "value": -148.86233222870661,
+                      "value": 148.86233222870661,
                       "significance": 0.999992,
                       "confidenceInterval": [
-                        -106.97681903303896,
+                        106.97681903303896,
                         184.70148349045218
                       ],
                       "isSignificant": true
                     },
                     "totalRevenueIncrease": {
-                      "value": -92453.48837209304,
+                      "value": 92453.48837209304,
                       "significance": 0.99992,
                       "confidenceInterval": [
-                        -254497.8524795997,
+                        254497.8524795997,
                         439404.8292237857
                       ],
                       "isSignificant": true
@@ -56745,25 +56745,25 @@
                   "4124786017-4134591994": {
                     "isBaseline": false,
                     "sessions": 3560,
-                    "revenue": 746100,
-                    "revenueRate": 209.57865168539325,
+                    "revenue": 273319,
+                    "revenueRate": 76.55865168539325,
                     "audienceId": 4124786017,
                     "variationId": 4134591994,
                     "revenueRateLift": {
-                      "value": 191.5230961298377,
+                      "value": -191.5230961298377,
                       "significance": 0.999999999992222,
                       "confidenceInterval": [
-                        111.80943334037086,
-                        271.2367589193046
+                        -271.80943334037086,
+                        -211.2367589193046
                       ],
                       "isSignificant": true
                     },
                     "totalRevenueIncrease": {
-                      "value": 681822.2222222222,
+                      "value": -679960.2222222222,
                       "significance": 0.999999999992222,
                       "confidenceInterval": [
-                        398041.5826917203,
-                        965602.8617527243
+                        -998041.5826917203,
+                        -365602.8617527243
                       ],
                       "isSignificant": true
                     }
@@ -56797,11 +56797,11 @@
                       "isSignificant": false
                     },
                     "conversionRateLift": {
-                      "value": 0.11761385767790252,
+                      "value": -0.11761385767790252,
                       "significance": 0.99999992,
                       "confidenceInterval": [
-                        -0.02944302509768741,
-                        0.044390695761421455
+                        -0.04944302509768741,
+                        -0.024390695761421455
                       ],
                       "isSignificant": true
                     },
@@ -56815,11 +56815,11 @@
                       "isSignificant": false
                     },
                     "totalConversionsIncrease": {
-                      "value": 42.3333333333333,
+                      "value": -42.3333333333333,
                       "significance": 0.999992,
                       "confidenceInterval": [
                         -104.81716934776719,
-                        158.03087691066037
+                        -158.03087691066037
                       ],
                       "isSignificant": true
                     }
