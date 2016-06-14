@@ -62,8 +62,6 @@
     "results": [
       {
         "queryKey": {
-          "begin": "2015-12-16T00:00:00Z",
-          "end": "2016-04-05T00:00:00Z",
           "primaryMetric": "convert|goalPrimary",
           "secondaryMetrics": {
             "revenue": "revenue",
@@ -172,8 +170,6 @@
       },
       {
         "queryKey": {
-          "begin": "2015-12-16T00:00:00Z",
-          "end": "2016-04-05T00:00:00Z",
           "primaryMetric": "convert|goalPrimary",
           "secondaryMetrics": {
             "revenue": "revenue",
@@ -296,10 +292,7 @@
     ],
     "reach": [
       {
-        "queryKey": {
-          "begin": "2015-12-16T00:00:00Z",
-          "end": "2016-04-05T00:00:00Z"
-        },
+        "queryKey": {},
         "results": {
           "totalSessions": 891851,
           "campaignSessions": 732138,
@@ -314,8 +307,6 @@
       },
       {
         "queryKey": {
-          "begin": "2015-12-16T00:00:00Z",
-          "end": "2016-04-05T00:00:00Z",
           "audienceVariation": "4135810959-4126972451"
         },
         "results": {
@@ -334,8 +325,6 @@
     "timeseries": [
       {
         "queryKey": {
-          "begin": "2015-12-16T00:00:00Z",
-          "end": "2016-04-05T00:00:00Z",
           "primaryMetric": "convert|goalPrimary",
           "secondaryMetrics": {
             "revenue": "revenue",
@@ -30716,8 +30705,6 @@
       },
       {
         "queryKey": {
-          "begin": "2015-12-16T00:00:00Z",
-          "end": "2016-04-05T00:00:00Z",
           "primaryMetric": "convert|goalPrimary",
           "secondaryMetrics": {
             "revenue": "revenue",
@@ -39909,8 +39896,6 @@
       },
       {
         "queryKey": {
-          "begin": "2015-12-16T00:00:00Z",
-          "end": "2016-04-05T00:00:00Z",
           "primaryMetric": "convert|goalPrimary",
           "secondaryMetrics": {
             "revenue": "revenue",
@@ -56169,8 +56154,6 @@
     "audiences": [
       {
         "queryKey": {
-          "begin": "2015-12-16T00:00:00Z",
-          "end": "2016-04-05T00:00:00Z",
           "primaryMetric": "convert|goalPrimary",
           "secondaryMetrics": {
             "revenue": "revenue",
@@ -56552,8 +56535,6 @@
       },
       {
         "queryKey": {
-          "begin": "2015-12-16T00:00:00Z",
-          "end": "2016-04-05T00:00:00Z",
           "primaryMetric": "convert|goalPrimary",
           "secondaryMetrics": {
             "revenue": "revenue",
