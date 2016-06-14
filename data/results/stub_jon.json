@@ -56919,7 +56919,7 @@
                     "audienceId": 4135810959,
                     "variationId": 4126972451,
                     "revenueRateLift": {
-                      "value": 81.05340228563188,
+                      "value": 121.05340228563188,
                       "significance": 0.999992,
                       "confidenceInterval": [
                         -118.15910702025545,
@@ -56928,11 +56928,11 @@
                       "isSignificant": true
                     },
                     "totalRevenueIncrease": {
-                      "value": 366847.69874476985,
+                      "value": 546646.69874476985,
                       "significance": 0.999992,
                       "confidenceInterval": [
-                        -534788.1183736762,
-                        1268483.5158632158
+                        534788.1183736762,
+                        568483.5158632158
                       ],
                       "isSignificant": true
                     }
