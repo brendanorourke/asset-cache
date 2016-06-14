@@ -131,7 +131,7 @@
                   },
                   "conversionRateLift": {
                     "value": 0.09610771531419186964,
-                    "significance": 0,
+                    "significance": 0.99992,
                     "confidenceInterval": [
                       0.06322543134986806,
                       0.12856844864339216
@@ -234,7 +234,7 @@
                   },
                   "conversionRateLift": {
                     "value": 0.350428211007109322,
-                    "significance": 0,
+                    "significance": 0.99992,
                     "confidenceInterval": [
                       -0.029229637908117896,
                       0.04222762492093099
@@ -274,7 +274,7 @@
                   },
                   "conversionRateLift": {
                     "value": 0.357389371218100516,
-                    "significance": 0.0017967306386478255,
+                    "significance": 0.999992,
                     "confidenceInterval": [
                       -2.306920087494111,
                       1.7317185306411784
