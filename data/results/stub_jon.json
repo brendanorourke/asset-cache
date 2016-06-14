@@ -56628,11 +56628,11 @@
                       "isSignificant": false
                     },
                     "conversionRateLift": {
-                      "value": -0.323531636313870384,
+                      "value": 0.323531636313870384,
                       "significance": 0.99992,
                       "confidenceInterval": [
-                        -0.042931558597165215,
-                        0.08050828223829537
+                        0.320931558597165215,
+                        0.33050828223829537
                       ],
                       "isSignificant": true
                     },
@@ -56646,11 +56646,11 @@
                       "isSignificant": false
                     },
                     "totalConversionsIncrease": {
-                      "value": -32.65116279069765,
+                      "value": 32.65116279069765,
                       "significance": 0.999992,
                       "confidenceInterval": [
-                        -102.13417790265605,
-                        191.52920344490468
+                        31.13417790265605,
+                        33.52920344490468
                       ],
                       "isSignificant": true
                     }
