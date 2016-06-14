@@ -9,17 +9,17 @@
   },
   "audiences": [
     {
-      "name": "Bag Shoppers",
+      "name": "Hikers",
       "id": 4133294308,
       "variation_id": 4142230430
     },
     {
-      "name": "High Value Shoppers",
+      "name": "Cold Climate",
       "id": 4124786017,
       "variation_id": 4134591994
     },
     {
-      "name": "Hat Shoppers",
+      "name": "Shoe Shoppers",
       "id": 4135810959,
       "variation_id": 4126972451
     }
@@ -62,6 +62,8 @@
     "results": [
       {
         "queryKey": {
+          "begin": "2015-12-16T00:00:00Z",
+          "end": "2016-04-05T00:00:00Z",
           "primaryMetric": "convert|goalPrimary",
           "secondaryMetrics": {
             "revenue": "revenue",
@@ -170,6 +172,8 @@
       },
       {
         "queryKey": {
+          "begin": "2015-12-16T00:00:00Z",
+          "end": "2016-04-05T00:00:00Z",
           "primaryMetric": "convert|goalPrimary",
           "secondaryMetrics": {
             "revenue": "revenue",
@@ -292,7 +296,10 @@
     ],
     "reach": [
       {
-        "queryKey": {},
+        "queryKey": {
+          "begin": "2015-12-16T00:00:00Z",
+          "end": "2016-04-05T00:00:00Z"
+        },
         "results": {
           "totalSessions": 891851,
           "campaignSessions": 732138,
@@ -307,6 +314,8 @@
       },
       {
         "queryKey": {
+          "begin": "2015-12-16T00:00:00Z",
+          "end": "2016-04-05T00:00:00Z",
           "audienceVariation": "4135810959-4126972451"
         },
         "results": {
@@ -325,6 +334,8 @@
     "timeseries": [
       {
         "queryKey": {
+          "begin": "2015-12-16T00:00:00Z",
+          "end": "2016-04-05T00:00:00Z",
           "primaryMetric": "convert|goalPrimary",
           "secondaryMetrics": {
             "revenue": "revenue",
@@ -30705,6 +30716,8 @@
       },
       {
         "queryKey": {
+          "begin": "2015-12-16T00:00:00Z",
+          "end": "2016-04-05T00:00:00Z",
           "primaryMetric": "convert|goalPrimary",
           "secondaryMetrics": {
             "revenue": "revenue",
@@ -39896,6 +39909,8 @@
       },
       {
         "queryKey": {
+          "begin": "2015-12-16T00:00:00Z",
+          "end": "2016-04-05T00:00:00Z",
           "primaryMetric": "convert|goalPrimary",
           "secondaryMetrics": {
             "revenue": "revenue",
@@ -56154,6 +56169,8 @@
     "audiences": [
       {
         "queryKey": {
+          "begin": "2015-12-16T00:00:00Z",
+          "end": "2016-04-05T00:00:00Z",
           "primaryMetric": "convert|goalPrimary",
           "secondaryMetrics": {
             "revenue": "revenue",
@@ -56535,6 +56552,8 @@
       },
       {
         "queryKey": {
+          "begin": "2015-12-16T00:00:00Z",
+          "end": "2016-04-05T00:00:00Z",
           "primaryMetric": "convert|goalPrimary",
           "secondaryMetrics": {
             "revenue": "revenue",
