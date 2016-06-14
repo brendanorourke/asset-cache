@@ -133,7 +133,7 @@
                     "value": 0.09610771531419186964,
                     "significance": 0,
                     "confidenceInterval": [
-                      -0.06322543134986806,
+                      0.06322543134986806,
                       0.12856844864339216
                     ],
                     "isSignificant": true
